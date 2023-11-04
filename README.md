@@ -23,13 +23,29 @@ https://github.com/amank5788/tosofrontend/assets/88306289/28f00be1-ae7b-4556-909
 
 Obs.: currently, the "filter" and due date  functionalities are not implemented, since I considered it wouldn't contribute that much to my personal learning, and would be very time consuming. Maybe I'll implement this later on.
 
+## Backend code
+
+1. backend is implemented on express server
+2. it handles all the auth and error
+3. this app also create sessions and stores it as cookies to provide extra security
+4. backend is also uploaded  on git (link - https://github.com/amank5788/todoapp)
+
+
+## DataBase
+
+1.i have used MongoDB as database for this web app
+2. it stores user as well as todoed information
+
+
+
+
 ## Usage
 If you want to try this project yourself:
 1. Install Node on your machine, via https://nodejs.org/en/.
 2. Install npm on your machine via terminal command:  npm install 
 3. Install Git on your machine, via https://git-scm.com/downloads.
 4. Clone this repository to your machine. (more on how to do this [here](https://github.com/amank5788/todoapp))
-5. Run yarn install on the terminal, inside the folder where you downloaded the project, to install all used dependencies.
+5. Run npm install on the terminal, inside the folder where you downloaded the project, to install all used dependencies.
 6. Run npm start to run the project on your browser.
 
 
