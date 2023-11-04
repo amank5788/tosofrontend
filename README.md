@@ -7,7 +7,10 @@ The login authentication logic and the tasks database for each user is implement
 ## Demonstration
 
 
-<video src="04.11.2023_20.28.04_REC.mp4" controls title="Demo of todo web app"> demo vedio</video>
+
+https://github.com/amank5788/tosofrontend/assets/88306289/28f00be1-ae7b-4556-9090-225ceae86665
+
+
 
 
 ## Functionalities
